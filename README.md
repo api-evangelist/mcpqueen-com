@@ -1,4 +1,4 @@
-# mcpqueen-com
+# MCP Queen
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,112 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-mcpqueen-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://mcpqueen.com/
+MCP Queen is an evidence and discovery platform for the MCP ecosystem, providing tools to find MCP servers, inspect operational evidence, and assess trust receipts. It offers a free 7‑day Scout + Guard stack check, integrates with AI agents like ChatGPT and Claude, and hosts a registry of thousands of graded live servers across domains such as databases, web search, health research, finance, and developer tools. The service aims to help users and agents connect to reliable MCP resources while maintaining transparency about server evidence and security grades.
+
+**Areas:** MCP · Discovery · Evidence · Registry · AI-Integration
+
+## MCP Queen on APIs.io
+
+Everything profiled for MCP Queen is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mcpqueen-com/](https://apis.io/providers/mcpqueen-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [MCP Queen API](https://apis.io/apis/mcpqueen-com/mcpqueen-com-api/) — MCP Queen API as documented publicly: 7 operations. Contract generated from the documentation by API Evangelist (2026-11-18); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiChangesJsonResponse](https://apis.io/schemas/mcpqueen-com/mcpqueen-com-get-api-changes-json-response/)
+- [GetApiGradesJsonResponse](https://apis.io/schemas/mcpqueen-com/mcpqueen-com-get-api-grades-json-response/)
+- [GetApiHistoryNameJsonResponse](https://apis.io/schemas/mcpqueen-com/mcpqueen-com-get-api-history-name-json-response/)
+- [GetApiTrustNameJsonResponse](https://apis.io/schemas/mcpqueen-com/mcpqueen-com-get-api-trust-name-json-response/)
+- [PostMcpRequest](https://apis.io/schemas/mcpqueen-com/mcpqueen-com-post-mcp-request/)
+- [PostMcpResponse](https://apis.io/schemas/mcpqueen-com/mcpqueen-com-post-mcp-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Mcpqueen Com Context](https://apis.io/jsonld/mcpqueen-com/mcpqueen-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [MCP Queen API Rules](https://apis.io/rules/mcpqueen-com/mcpqueen-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [MCP Queen Domain Security](https://apis.io/security/mcpqueen-com/mcpqueen-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mcpqueen.com/)
+- [API reference](https://mcpqueen.com/api)
+- [Terms of service](https://mcpqueen.com/terms)
+- [Privacy policy](https://mcpqueen.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 31.3** — thin · rubric 0.28.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 46.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 17.0 |
+
+**Agent readiness 17.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mcpqueen-com/](https://apis.io/providers/mcpqueen-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MCP Queen: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mcpqueen-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
